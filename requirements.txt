@@ -1,0 +1,4 @@
+discord.py # The discord API Wrapper library that we use
+python-dotenv # Loading .env files for config etc
+psycopg[binary] # Used for postgresql
+httpx # Used for requests
